@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A Year in World History: East vs. West
 
 You can use the [editor on GitHub](https://github.com/chilif/eastwesthistory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
