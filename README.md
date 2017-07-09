@@ -2,7 +2,9 @@
 
 This is a webpage that offers a timeline of world history comparing the east and the west. Specifically, the purpose is to highlight known historical events that occured in the east and the west at the same time.
 
-This idea came from my own frustration studying history in middle school and high school in Taiwan where Eastern history and Western history have always been taught separately in two semesters. When one was taught, there was very little reference made to the other even though we might have just learned it in the previous semester. When studying Chinese history, I often wondered what was going on in Europe at that time, and vice versa. 
+This idea came from my own frustration studying history in middle school and high school in Taiwan where Eastern history and Western history have always been taught separately in two semesters. When one was taught, there was very little reference made to the other even though we might have just learned it in the previous semester. When studying Chinese history, I often wondered what was going on in Europe at that time; when studying European and American history, I was 
+
+it was as if they all happened in two different worlds. But that is not true. These events happened in difference spaces but at the same time. We should be able to (and I probably would've got better grades)
 
 my european friends 
 eastern history was never part of the curriculum when they grew up
@@ -13,7 +15,7 @@ bridge this gap in knowledge
 
 The first time "east met the west" was when Marco Polo and then of course the world wars.
 
-I plan to continue to add more years and events.
+I plan to continue to add more years and events. In the initial stage, I will focus on Chinese history for the east.
 
 
 
