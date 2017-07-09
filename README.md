@@ -1,5 +1,22 @@
 ## A Year in World History: East vs. West
 
+This is a webpage that offers a timeline of world history comparing the east and the west. Specifically, the purpose is to highlight known historical events that occured in the east and the west at the same time.
+
+This idea came from my own frustration studying history in middle school and high school in Taiwan where Eastern history and Western history have always been taught separately in two semesters. When one was taught, there was very little reference made to the other even though we might have just learned it in the previous semester. When studying Chinese history, I often wondered what was going on in Europe at that time, and vice versa. 
+
+my european friends 
+eastern history was never part of the curriculum when they grew up
+
+bridge this gap in knowledge
+
+
+
+The first time "east met the west" was when Marco Polo and then of course the world wars.
+
+I plan to continue to add more years and events.
+
+
+
 You can use the [editor on GitHub](https://github.com/chilif/eastwesthistory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
