@@ -8,7 +8,7 @@ I believe seeing which events happened in the east and in the west around the sa
 
 I was lucky to find a number of useful sources to begin this project (see below). I will continue to add more years and events, but in the initial stage, Chinese history will be the focus for the East and Europe as the focus for the West. This dichotomy of East vs West is more convenient than definitional.
 
-https://en.wikipedia.org/wiki/Timeline_of_Chinese_history
+https://en.wikipedia.org/wik1.i/Timeline_of_Chinese_history
 http://www.kmuh.org.tw/www/drgga/www/C.H/CH02.htm
 http://www.ivantsoi.com/history/
 https://wechatinchina.com/thread-38973-1-1.html
