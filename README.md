@@ -29,7 +29,8 @@ THe first dynasty in Chinese history, [Xia dynasty](https://en.wikipedia.org/wik
 ## 221BC
 Qin Shi Huang unified China and began imperial rule in China which lasted until 1912. He's also the guy that built the Great Wall. Those familiar with world cinema might have seen [Hero (2002) by Zhang Yimou](http://www.imdb.com/title/tt0299977/) which descirbes assassins, loyal to their old states, trying to assasinate the new emperor. Around the same time, Roman was fighting the second war against Carthage. There were three wars between Rome and Cathage, the outcome of which was the defeat of Carthage and Rome as the dominant Mediterranean power until 5th century AD.
 ### Jet Li playing his character "Nameless" in Hero (2002)
-![Nameless](http://www.imdb.com/title/tt0299977/mediaviewer/rm4149188864)
+![Nameless](https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1ODM4NTY0MF5BMl5BanBnXkFtZTYwMTYwNTc3._V1_.jpg)
+Source: IMDB
 ![Dido, Queen of Carthage in Civilation V](https://steamuserimages-a.akamaihd.net/ugc/3318337467276162110/9A55F2F91D97DFF4CE56DB519C759E6C1964624E/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside|637:358&composite-to%3D%2A%2C%2A%7C637%3A358&background-color=black)
-
+Source: Steam forum
 
