@@ -16,7 +16,7 @@ I was lucky to find a number of useful sources to begin this project (see below)
 
 ## 2800-2100BC
 In ancient China, it was known to be the time of the [Three Sovereigns and Five Emperors](https://en.wikipedia.org/wiki/Three_Sovereigns_and_Five_Emperors) among which the best known figure is the [Yellow Emporer](https://en.wikipedia.org/wiki/Yellow_Emperor) who is probably more like god than a ruling emporer. He is considered to be the ancestor of all Chinese and is credited for many creations and innovations. Around the same time, the [Great Pyramid of Giza](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza) was built in Egypt by Pharaoh Khufu (2560BC); Maya culture emerged in the Yucatán Peninsula in Southeastern Mexico); and the Indus Valley Civilisation in present-day northeast Afghanistan to Pakistan and northwest India enter the mature period (2600–1900 BC).
-###The Yellow Emperor
+### The Yellow Emperor
 ![Yellow Emperor](https://upload.wikimedia.org/wikipedia/commons/3/33/Yellow_Emperor.jpg)
-###Great Pyramid of Giza
+### Great Pyramid of Giza
 ![Great Pyramid of Giza](http://www.ancient.eu/uploads/images/display-5687.jpg)
