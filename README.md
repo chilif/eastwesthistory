@@ -31,6 +31,7 @@ Qin Shi Huang unified China and began imperial rule in China which lasted until 
 ### Jet Li playing his character "Nameless" in Hero (2002)
 ![Nameless](https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1ODM4NTY0MF5BMl5BanBnXkFtZTYwMTYwNTc3._V1_.jpg)
 Source: IMDB
-![Dido, Queen of Carthage in Civilation V](https://steamuserimages-a.akamaihd.net/ugc/3318337467276162110/9A55F2F91D97DFF4CE56DB519C759E6C1964624E/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside|637:358&composite-to%3D%2A%2C%2A%7C637%3A358&background-color=black)
+### Dido, Queen of Carthage in Civilization V
+![Dido](https://steamuserimages-a.akamaihd.net/ugc/3318337467276162110/9A55F2F91D97DFF4CE56DB519C759E6C1964624E/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside|637:358&composite-to%3D%2A%2C%2A%7C637%3A358&background-color=black)
 Source: Steam forum
 
