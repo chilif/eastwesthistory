@@ -20,3 +20,8 @@ In ancient China, it was known to be the time of the [Three Sovereigns and Five 
 ![Yellow Emperor](https://upload.wikimedia.org/wikipedia/commons/3/33/Yellow_Emperor.jpg)
 ### Great Pyramid of Giza
 ![Great Pyramid of Giza](http://www.ancient.eu/uploads/images/display-5687.jpg)
+
+## 2070-1600BC
+THe first dynasty in Chinese history, [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty), was built by Yu the Great. In 1754BC, The Babylonian king, Hammurabi, enacted the [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi).
+
+
