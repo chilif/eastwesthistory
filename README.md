@@ -6,7 +6,7 @@ This idea came from my own frustration studying history in my childhood in Taiwa
 
 I believe seeing which events happened in the east and in the west around the same time would give us contextual knowledge that will help us connect what we already know, and humanity and the world as a whole more holistically (and I probably would've got better grades if I had done this long time ago).
 
-I was lucky to find a number of useful sources to begin this project (listed below). I will continue to add more years and events, but in the initial stage, Chinese history will be the focus for the East and Europe as the focus for the West. This dichotomy of East vs West is more convenient than definitional.
+I was lucky to find a number of useful sources to begin this project (listed below). I will continue to add more years and events (*in no particular order), but in the initial stage, Chinese history will be the focus for the East and Europe as the focus for the West. This dichotomy of East vs West is more convenient than definitional.
 
 - https://en.wikipedia.org/wik1.i/Timeline_of_Chinese_history
 - http://www.kmuh.org.tw/www/drgga/www/C.H/CH02.htm
