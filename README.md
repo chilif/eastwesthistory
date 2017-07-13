@@ -1,4 +1,4 @@
-## A Year in World History: East vs. West
+# A Year in World History: East vs. West
 
 This webpage offers a timeline of world history comparing the east and the west. Specifically, it highlights known historical events that occured in the east and the west around the same time.
 
@@ -14,4 +14,4 @@ http://www.ivantsoi.com/history/
 https://wechatinchina.com/thread-38973-1-1.html
 http://afe.easia.columbia.edu/timelines/china_timeline.htm
 
-# 2100-2500BC The Yellow Emporer
+## 2100-2500BC The Yellow Emporer
