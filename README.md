@@ -17,7 +17,7 @@ I was lucky to find a number of useful sources to begin this project (listed bel
 In ancient China, this was known to be the time of the [Three Sovereigns and Five Emperors](https://en.wikipedia.org/wiki/Three_Sovereigns_and_Five_Emperors) among which the best known figure is the [Yellow Emporer](https://en.wikipedia.org/wiki/Yellow_Emperor), who is probably more like a god than a ruling emperor. He is considered to be the ancestor of all Chinese and is credited for many creations and innovations. Around the same time, the [Great Pyramid of Giza](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza) was built in Egypt by Pharaoh Khufu (2560BC).
 ### The Yellow Emperor
 ![Yellow Emperor](https://upload.wikimedia.org/wikipedia/commons/3/33/Yellow_Emperor.jpg)
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Yellow_Emperor)
+Source:[Wikipedia](https://en.wikipedia.org/wiki/Yellow_Emperor)
 ### Great Pyramid of Giza
 ![Great Pyramid of Giza](http://www.ancient.eu/uploads/images/display-5687.jpg)
 Source: [www.ancient.eu](http://www.ancient.eu/Great_Pyramid_of_Giza/)
